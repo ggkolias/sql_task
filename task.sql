@@ -1,4 +1,5 @@
-/*after adding the table with the data that are provided in the doc file we were ready to access the created table*/
+/*after adding the table with the data that are provided in a doc file via email,
+we were ready to access the created table*/
 
 SELECT count(jsontest.to_jsonb)
 FROM public.jsontest
